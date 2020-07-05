@@ -14,7 +14,7 @@ Handwritten digit recognition using opencv, SVM and Python
 2. Run app.py script
 3. Drag the mouse to draw number(s)
 
-![](name-of-giphy.gif)
+![](gif1.gif)
 
 
 ## Results
