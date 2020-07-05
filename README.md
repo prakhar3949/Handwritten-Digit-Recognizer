@@ -14,7 +14,7 @@ Handwritten digit recognition using opencv, SVM and Python
 2. Run app.py script
 3. Drag the mouse to draw number(s)
 
-![Alt text](https://github.com/prakhar3949/Handwritten-Digit-Recognizer/blob/master/Capture.png?raw=true "Application screen")
+![](name-of-giphy.gif)
 
 
 ## Results
